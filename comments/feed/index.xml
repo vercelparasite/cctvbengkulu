@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for CCTV Bengkulu	</title>
-	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
+	Comments for Bengkulu	</title>
+	<atom:link href="/comments/feed?simply_static_page=27" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Jual &#38; Pasang CCTV</description>
-	<lastBuildDate>Sat, 07 Jan 2023 14:34:53 +0000</lastBuildDate>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 10 Jan 2023 02:48:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
